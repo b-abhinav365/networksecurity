@@ -1,0 +1,5 @@
+[2026-01-06 11:31:52,805] 20 Networksecuritylogging - INFO - Logger running successfully
+[2026-01-06 11:31:54,081] 12 root - INFO - Initiate the data ingestion
+[2026-01-06 11:32:04,243] 59 root - INFO - Performing train test split on the dataframe
+[2026-01-06 11:32:04,243] 60 root - INFO - Exited split data as train test method of data ingestion class
+[2026-01-06 11:32:04,243] 63 root - INFO - Exporting train and test file path
